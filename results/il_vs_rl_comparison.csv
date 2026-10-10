@@ -1,3 +1,3 @@
 dataset,dataset_type,b0_accuracy,il_accuracy,rl_accuracy,il_ece,rl_ece,il_ep_len_mean,rl_ep_len_mean,il_convergence_ep,rl_convergence_ep,acc_delta,ece_delta
-VOTING,binary,0.9618,0.9618,0.9618,0.0417,0.0281,8.0,9.55,5,5,0.0,0.0136
-D5,medical,0.7338,0.7532,0.7078,0.1049,0.1059,8.01,8.25,5,5,0.0454,-0.001
+ADULT,continuous,0.0,0.7987,0.7987,0.0112,0.0942,8.53,8.5,5,5,0.0,-0.083
+VOTING,binary,0.9695,0.7,0.9618,0.127,0.036,16.28,9.15,5,5,-0.2618,0.091
